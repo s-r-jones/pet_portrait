@@ -1,0 +1,79 @@
+{
+    "1684359844546711:300502": {
+        "IFileManager": {
+            "path": "Files/File_1684359844546711_300502.pvr"
+        }
+    },
+    "1684359844548670:300503": {
+        "IResourceController": {
+            "name": "04_UniversialVignette",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684359844550415:300504",
+            "fileId": "1684359844546711:300502",
+            "originalId": "1684359844551414:300509",
+            "publicId": "1684359844615120:300519",
+            "expected_hash": "4469c581f499429f3fbac6f0d1ef8a25",
+            "additional": {
+                "originHash": "bdc7b22bec2f00935ef6021511a4ade8"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684359844550415:300504",
+            "name": "Files/File_1684359844546711_300502.png",
+            "flags": 1
+        }
+    },
+    "1684359844550415:300504": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "bdc7b22bec2f00935ef6021511a4ade8"
+                    },
+                    "v": "1684359846541110:301031"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1036800",
+                "compressedSize": "512596",
+                "extension": "png",
+                "originalRAM": "8294400",
+                "originalSize": "535248",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1684359844586141:300512"
+        }
+    },
+    "1684359844551414:300509": {
+        "IFileManager": {
+            "path": "Files/File_1684359844551414_300509.png"
+        }
+    },
+    "1684359844586141:300512": {
+        "IFileManager": {
+            "path": "Files/File_1684359844586141_300512.png"
+        }
+    },
+    "1684359844615120:300519": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Pet Segmentation Resources/04_UniversialVignette.png",
+                "hash": "bdc7b22bec2f00935ef6021511a4ade8"
+            }
+        }
+    },
+    "1684359846541110:301031": {
+        "IFileManager": {
+            "path": "Files/File_1684359846541110_301031.pvr"
+        }
+    }
+}

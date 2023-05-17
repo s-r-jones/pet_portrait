@@ -1,0 +1,42 @@
+{
+    "1684359120967122:147469": {
+        "IFileManager": {
+            "path": "Files/File_1684359120967122_147469.png"
+        }
+    },
+    "1684359120968896:147470": {
+        "IResourceController": {
+            "name": "telemarketer_snap",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684359120969234:147471",
+            "fileId": "1684359120967122:147469",
+            "originalId": "1684359120969537:147476",
+            "publicId": "1684359120971724:147477",
+            "expected_hash": "beb5663d657b8d996b234a73e2b4ca2a",
+            "additional": {
+                "originHash": "beb5663d657b8d996b234a73e2b4ca2a"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684359120969234:147471",
+            "name": "Files/File_1684359120967122_147469.png",
+            "flags": 1
+        }
+    },
+    "1684359120969537:147476": {
+        "IFileManager": {
+            "path": "Files/File_1684359120969537_147476.png"
+        }
+    },
+    "1684359120971724:147477": {
+        "IResourceController": {
+            "public": {
+                "path": "telemarketer_snap.png",
+                "hash": "beb5663d657b8d996b234a73e2b4ca2a"
+            }
+        }
+    }
+}

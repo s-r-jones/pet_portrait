@@ -1,0 +1,79 @@
+{
+    "1684361062186837:503316": {
+        "IFileManager": {
+            "path": "Files/File_1684361062186837_503316.jpg"
+        }
+    },
+    "1684361062188642:503317": {
+        "IResourceController": {
+            "name": "vig3",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684361062189783:503318",
+            "fileId": "1684361062186837:503316",
+            "originalId": "1684361062190367:503324",
+            "publicId": "1684361062215882:503331",
+            "expected_hash": "7bcc96363104a7526cdc45f60194a3c0",
+            "additional": {
+                "originHash": "d2f72aa7c19c3fc2e41d63c419fc7d2f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684361062189783:503318",
+            "name": "Files/File_1684361062186837_503316.jpg",
+            "flags": 1
+        }
+    },
+    "1684361062189783:503318": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "d2f72aa7c19c3fc2e41d63c419fc7d2f"
+                    },
+                    "v": "1684361063065293:503737"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "6387200",
+                "compressedSize": "94351",
+                "extension": "jpg",
+                "originalRAM": "6387200",
+                "originalSize": "146596",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1684361062202075:503326"
+        }
+    },
+    "1684361062190367:503324": {
+        "IFileManager": {
+            "path": "Files/File_1684361062190367_503324.jpg"
+        }
+    },
+    "1684361062202075:503326": {
+        "IFileManager": {
+            "path": "Files/File_1684361062202075_503326.jpg"
+        }
+    },
+    "1684361062215882:503331": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/vig3.jpg",
+                "hash": "d2f72aa7c19c3fc2e41d63c419fc7d2f"
+            }
+        }
+    },
+    "1684361063065293:503737": {
+        "IFileManager": {
+            "path": "Files/File_1684361063065293_503737.jpg"
+        }
+    }
+}

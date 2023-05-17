@@ -1,0 +1,39 @@
+{
+    "1684359186805945:164090": {
+        "IFileManager": {
+            "path": "Files/File_1684359186805945_164090"
+        }
+    },
+    "1684359186807240:164091": {
+        "IResourceController": {
+            "name": "Pixelization",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684359186807243:164092",
+            "fileId": "1684359186805945:164090",
+            "originalId": "1684359186828297:164096",
+            "publicId": "1684359186993607:164179",
+            "expected_hash": "878b4922a05e6ca0ca85f313cd4289a1"
+        },
+        "IResourceManager": {
+            "uid": "1684359186807243:164092",
+            "name": "Files/File_1684359186805945_164090",
+            "flags": 1
+        }
+    },
+    "1684359186828297:164096": {
+        "IFileManager": {
+            "path": "Files/File_1684359186828297_164096.lsmat"
+        }
+    },
+    "1684359186993607:164179": {
+        "IResourceController": {
+            "public": {
+                "path": "Pixelization.lsmat",
+                "hash": "6706ed4786d47dddaf21996db38b36c1"
+            }
+        }
+    }
+}

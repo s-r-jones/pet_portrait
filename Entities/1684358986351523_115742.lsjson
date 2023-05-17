@@ -1,0 +1,79 @@
+{
+    "1684358986349912:115741": {
+        "IFileManager": {
+            "path": "Files/File_1684358986349912_115741.pvr"
+        }
+    },
+    "1684358986351523:115742": {
+        "IResourceController": {
+            "name": "telemarketing_lut",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684358986352097:115743",
+            "fileId": "1684358986349912:115741",
+            "originalId": "1684358986352480:115748",
+            "publicId": "1684358986363805:115752",
+            "expected_hash": "b3ef55b6b33d4b0ff8c56578457bcb65",
+            "additional": {
+                "originHash": "ecc5279a0e5daf5ecc3b8b2d6a0e92e0"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684358986352097:115743",
+            "name": "Files/File_1684358986349912_115741.png",
+            "flags": 1
+        }
+    },
+    "1684358986352097:115743": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ecc5279a0e5daf5ecc3b8b2d6a0e92e0"
+                    },
+                    "v": "1684358990780261:116488"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "96747",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "71925",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1684358986356549:115749"
+        }
+    },
+    "1684358986352480:115748": {
+        "IFileManager": {
+            "path": "Files/File_1684358986352480_115748.png"
+        }
+    },
+    "1684358986356549:115749": {
+        "IFileManager": {
+            "path": "Files/File_1684358986356549_115749.png"
+        }
+    },
+    "1684358986363805:115752": {
+        "IResourceController": {
+            "public": {
+                "path": "telemarketing_lut.png",
+                "hash": "ecc5279a0e5daf5ecc3b8b2d6a0e92e0"
+            }
+        }
+    },
+    "1684358990780261:116488": {
+        "IFileManager": {
+            "path": "Files/File_1684358990780261_116488.pvr"
+        }
+    }
+}

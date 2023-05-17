@@ -15,7 +15,7 @@
             "fileId": "1684345086100121:683988",
             "originalId": "1684345086120341:683994",
             "publicId": "1684345086165082:684003",
-            "expected_hash": "8a526d232dd4a95b6e09eced5454ea1e"
+            "expected_hash": "fb277f102426278c569cf3a613bc29b3"
         },
         "IResourceManager": {
             "uid": "1684345086101228:683990",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Assets/Pet Segmentation Resources/Materials/pet_segmentation.lsmat",
-                "hash": "4eafba62bf3093542b039402112be854"
+                "hash": "d4ca5e80d02b381e44cbb6ba2cc8fb0f"
             }
         }
     }
