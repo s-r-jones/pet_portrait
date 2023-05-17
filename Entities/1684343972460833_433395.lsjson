@@ -1,0 +1,39 @@
+{
+    "1684343972460833:433395": {
+        "IResourceController": {
+            "name": "PetSegmentation__PUT_IN_ORTHO_CAM",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684343972460805:433392",
+            "fileId": "1684343972479543:433399",
+            "originalId": "1684344762101105:620920",
+            "publicId": "1684343973203220:433560",
+            "expected_hash": "5dd3bcaaa28ee5d87797d29219ec1f68"
+        },
+        "IResourceManager": {
+            "uid": "1684343972460805:433392",
+            "name": "sceneObject_12",
+            "flags": 0
+        }
+    },
+    "1684343972479543:433399": {
+        "IFileManager": {
+            "path": "Files/File_1684343972479543_433399.oprfb"
+        }
+    },
+    "1684343973203220:433560": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/PetSegmentation__PUT_IN_ORTHO_CAM.oprfb",
+                "hash": "eb6434f525558165c2bf9227e33ffee5"
+            }
+        }
+    },
+    "1684344762101105:620920": {
+        "IFileManager": {
+            "path": "Files/File_1684344762101105_620920.oprfb"
+        }
+    }
+}

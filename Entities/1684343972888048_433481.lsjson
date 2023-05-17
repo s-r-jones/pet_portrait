@@ -1,0 +1,22 @@
+{
+    "1684343972888048:433481": {
+        "IResourceController": {
+            "name": "Models",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684343972888352:433482",
+            "resources": [
+                "1684343972868751:433468"
+            ]
+        }
+    },
+    "1684343972888352:433482": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Pet Segmentation Resources/Models"
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "1684352488506563:912340": {
+        "IResourceController": {
+            "name": "mediaPickerSeg",
+            "type": 1,
+            "subtype": 19,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684352488506556:912339"
+        },
+        "IResourceManager": {
+            "uid": "1684352488506556:912339",
+            "name": "heatmaps Proxy Texture",
+            "flags": 0
+        }
+    }
+}

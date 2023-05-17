@@ -1,0 +1,17 @@
+{
+    "1684351905130461:835579": {
+        "IResourceController": {
+            "name": "Cam2Target",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684351905130458:835578"
+        },
+        "IResourceManager": {
+            "uid": "1684351905130458:835578",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

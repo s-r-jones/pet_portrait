@@ -1,0 +1,24 @@
+{
+    "1684343972657381:433448": {
+        "IResourceController": {
+            "name": "Pet Segmentation Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684343972657587:433449",
+            "resources": [
+                "1684343972657938:433450",
+                "1684343972888048:433481",
+                "1684343973199501:433502"
+            ]
+        }
+    },
+    "1684343972657587:433449": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Pet Segmentation Resources"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1684343649181487:400081": {
+        "IFileManager": {
+            "path": "Files/File_1684343649181487_400081"
+        }
+    },
+    "1684343649182284:400082": {
+        "IResourceController": {
+            "name": "bg",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684343649182293:400083",
+            "fileId": "1684343649181487:400081",
+            "originalId": "1684343649215917:400089",
+            "publicId": "1684343649433869:400133",
+            "expected_hash": "64d389ea3a982994b8d0bfbf0c473712"
+        },
+        "IResourceManager": {
+            "uid": "1684343649182293:400083",
+            "name": "Files/File_1684343649181487_400081",
+            "flags": 1
+        }
+    },
+    "1684343649215917:400089": {
+        "IFileManager": {
+            "path": "Files/File_1684343649215917_400089.lsmat"
+        }
+    },
+    "1684343649433869:400133": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/bg.lsmat",
+                "hash": "b263ca5e0d7c316f4164f5cd28cb736c"
+            }
+        }
+    }
+}

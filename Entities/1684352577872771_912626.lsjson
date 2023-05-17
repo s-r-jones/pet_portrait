@@ -1,0 +1,17 @@
+{
+    "1684352577872771:912626": {
+        "IResourceController": {
+            "name": "pet_segmentation_output_texture",
+            "type": 1,
+            "subtype": 19,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684352577872760:912625"
+        },
+        "IResourceManager": {
+            "uid": "1684352577872760:912625",
+            "name": "Proxy Texture",
+            "flags": 0
+        }
+    }
+}

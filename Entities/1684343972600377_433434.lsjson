@@ -1,0 +1,39 @@
+{
+    "1684343972599603:433433": {
+        "IFileManager": {
+            "path": "Files/File_1684343972599603_433433"
+        }
+    },
+    "1684343972600377:433434": {
+        "IResourceController": {
+            "name": "foreground_pet_people_segmentation",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684343972600382:433435",
+            "fileId": "1684343972599603:433433",
+            "originalId": "1684343972618310:433439",
+            "publicId": "1684343972658482:433452",
+            "expected_hash": "9655917716e278239ac3dcccf57f913a"
+        },
+        "IResourceManager": {
+            "uid": "1684343972600382:433435",
+            "name": "Files/File_1684343972599603_433433",
+            "flags": 1
+        }
+    },
+    "1684343972618310:433439": {
+        "IFileManager": {
+            "path": "Files/File_1684343972618310_433439.lsmat"
+        }
+    },
+    "1684343972658482:433452": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Pet Segmentation Resources/Materials/foreground_pet_people_segmentation.lsmat",
+                "hash": "727e9e13135d52298374c34bb74260b1"
+            }
+        }
+    }
+}

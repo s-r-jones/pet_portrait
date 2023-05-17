@@ -1,0 +1,23 @@
+{
+    "1684343973199501:433502": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684343973199737:433503",
+            "resources": [
+                "1684345821280495:796945",
+                "1684352577872771:912626"
+            ]
+        }
+    },
+    "1684343973199737:433503": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Pet Segmentation Resources/Textures"
+            }
+        }
+    }
+}

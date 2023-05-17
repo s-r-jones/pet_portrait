@@ -1,0 +1,52 @@
+{
+    "1684343972866863:433467": {
+        "IFileManager": {
+            "path": "Files/File_1684343972866863_433467.dnn"
+        }
+    },
+    "1684343972868751:433468": {
+        "IResourceController": {
+            "name": "fritz_ai_pet_segmentation_model",
+            "type": 22,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684343972868760:433469",
+            "fileId": "1684343972866863:433467",
+            "publicId": "1684343972993568:433486",
+            "expected_hash": "01e003f7e482744332d2762225a9f091"
+        },
+        "IResourceManager": {
+            "uid": "1684343972868760:433469",
+            "name": "Files/File_1684343972866863_433467.dnn",
+            "flags": 1
+        }
+    },
+    "1684343972868760:433469": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedSize": "4306904",
+                "extension": "dnn",
+                "originalSize": "4306904",
+                "settings": {
+                    "isCompressed": "false"
+                }
+            },
+            "uncompressed_file": "1684343972888823:433483"
+        }
+    },
+    "1684343972888823:433483": {
+        "IFileManager": {
+            "path": "Files/File_1684343972888823_433483.dnn"
+        }
+    },
+    "1684343972993568:433486": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Pet Segmentation Resources/Models/fritz_ai_pet_segmentation_model.dnn",
+                "hash": "01e003f7e482744332d2762225a9f091"
+            }
+        }
+    }
+}
