@@ -1,0 +1,40 @@
+{
+    "1684437937393302:421592": {
+        "IFileManager": {
+            "path": "Files/File_1684437937393302_421592"
+        }
+    },
+    "1684437937396227:421593": {
+        "IResourceController": {
+            "name": "tap_hint",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684437937397658:421596",
+            "fileId": "1684437937393302:421592",
+            "originalId": "1684437937408926:421603",
+            "publicId": "1684437937430850:421613",
+            "expected_hash": "9e340bcf3427671639ad40a9295105b9"
+        },
+        "IResourceManager": {
+            "uid": "1684437937397658:421596",
+            "name": "Files/File_1684437937393302_421592",
+            "flags": 1
+        }
+    },
+    "1684437937408926:421603": {
+        "IFileManager": {
+            "path": "Files/File_1684437937408926_421603"
+        }
+    },
+    "1684437937430850:421613": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Hints/tap_hint",
+                "hash": "9e340bcf3427671639ad40a9295105b9",
+                "complexResourceHash": "03b8525b063b64a4493c136ef7e07fe0"
+            }
+        }
+    }
+}

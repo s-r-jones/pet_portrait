@@ -1,0 +1,33 @@
+{
+    "1684438691739352:649302": {
+        "IFileManager": {
+            "path": "Files/File_1684438691739352_649302.js"
+        }
+    },
+    "1684438691740337:649303": {
+        "IResourceController": {
+            "name": "movePet",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684438691740353:649304",
+            "fileId": "1684438691739352:649302",
+            "publicId": "1684438691741539:649309",
+            "expected_hash": "dff7738eeb756287271315fba6c538ac"
+        },
+        "IResourceManager": {
+            "uid": "1684438691740353:649304",
+            "name": "Files/File_1684438691739352_649302.js",
+            "flags": 1
+        }
+    },
+    "1684438691741539:649309": {
+        "IResourceController": {
+            "public": {
+                "path": "movePet.js",
+                "hash": "dff7738eeb756287271315fba6c538ac"
+            }
+        }
+    }
+}

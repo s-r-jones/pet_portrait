@@ -1,0 +1,39 @@
+{
+    "1684437936995436:420909": {
+        "IResourceController": {
+            "name": "UI__PUT_IN_ORTHO_CAM",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684437936995359:420906",
+            "fileId": "1684437937016938:420913",
+            "originalId": "1684438349185664:567683",
+            "publicId": "1684437937527562:424035",
+            "expected_hash": "11f1a520da300c5c4588e07434708276"
+        },
+        "IResourceManager": {
+            "uid": "1684437936995359:420906",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1684437937016938:420913": {
+        "IFileManager": {
+            "path": "Files/File_1684437937016938_420913.oprfb"
+        }
+    },
+    "1684437937527562:424035": {
+        "IResourceController": {
+            "public": {
+                "path": "UI__PUT_IN_ORTHO_CAM.oprfb",
+                "hash": "e7aef21dd52cbedc4a2cc6cad2412c1e"
+            }
+        }
+    },
+    "1684438349185664:567683": {
+        "IFileManager": {
+            "path": "Files/File_1684438349185664_567683.oprfb"
+        }
+    }
+}
